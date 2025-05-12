@@ -8,6 +8,8 @@ Key Uses of the Code
 
 💡 Real-World Scenario: Suppose an attacker is testing a web application for security flaws. They might use this script to check for sensitive endpoints like:
 http://target-ip:8000/admin
+
 http://target-ip:8000/debug
+
 http://target-ip:8000/shell
 
