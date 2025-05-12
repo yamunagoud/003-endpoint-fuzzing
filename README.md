@@ -20,6 +20,7 @@ http://target-ip:8000/debug
 http://target-ip:8000/shell
 
 Sample Output:
+
 ![image](https://github.com/user-attachments/assets/aed36fab-018d-4594-876a-1997d58a3f0b)
 
 
